@@ -1,0 +1,19 @@
+# Ignorar arquivos temporários e gerados
+*.user
+*.log
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.exe
+*.tlog
+*.recipe
+
+# Ignorar pastas de build
+Debug/
+Release/
+x64/
+
+# Ignorar arquivos da IDE
+.vs/
+*.suo
